@@ -1,4 +1,0 @@
-+++
-template = "pages/index.html"
-+++
-
