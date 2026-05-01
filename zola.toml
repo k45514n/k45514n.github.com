@@ -33,16 +33,16 @@ render_emoji = true
 bottom_footnotes = true
 
 [extra]
-author = "Speyll"
+author = "Kassian Wren (k45514n)"
 favicon = "favicon.ico"
 list_pages = false
-twitter_card = true
+twitter_card = false
 enable_search = true
 
 ## Navigation
 header_nav = [
-  { url = "/", name_en = "/home/", name_fr = "/accueil/" },
-  { url = "/about", name_en = "/about/", name_fr = "/concernant/" },
-  { url = "/journal", name_en = "/journal/", name_fr = "/journal/" },
-  { url = "/blog", name_en = "/blog/", name_fr = "/blog/" }
+  { url = "/", name_en = "/home/"},
+  { url = "/resume", name_en = "/resume/" },
+  { url = "/about", name_en = "/about/" },
+  { url = "/blog", name_en = "/blog/" }
 ]
